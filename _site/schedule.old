@@ -8,7 +8,7 @@
   <meta name="description" content="Introduction to Computer Science II">
   <meta name="author" content="Sami Rollins">
 
-  <title>Introduction to Computer Science II</title>
+  <title>Accelerated Object Oriented Programming</title>
 
 
   <!-- Latest compiled and minified CSS -->
@@ -57,8 +57,8 @@
 <!--          <li ><a href="/learningoutcomes.html">Learning Outcomes</a></li> -->
         </ul>
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="https://usfca.instructure.com/courses/1566036">Canvas<span class="sr-only">(current)</span></a></li>
-          <li><a href="https://piazza.com/usfca/spring2017/cs11202/home">Piazza</a></li>
+          <li><a href="https://usfca.instructure.com/courses/1573408">Canvas<span class="sr-only">(current)</span></a></li>
+          <li><a href="https://cs514-f17.slack.com/">Slack</a></li>
         </ul>        
       </div>      
     </div>
