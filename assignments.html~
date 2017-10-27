@@ -1,4 +1,4 @@
----
+s---
 layout: default
 title: Assignments
 ---
@@ -140,12 +140,12 @@ title: Assignments
      <td><a href="https://github.com/CS514-F17/SongFinder/blob/master/specifications/project1.md">Project: Release 1</a></td>
      <td>Friday 11/10, 5:00pm</td>
    </tr>
+ <!-- 
      <tr>
      <td>2</td>
-     <td><a href="https://github.com/CS514-F17/SongFinder/blob/master/specifications/project2.md">Project: Release 2</a></td>
-     <td>Monday 11/27, 5:00pm</td>
+     <td><a href="https://github.com/CS112-S17/projects/blob/master/project2.md">Project 2</a></td>
+     <td>Friday 3/24, 5:00pm</td>
    </tr>
- <!-- 
    <tr>
      <td>3</td>
      <td><a href="https://github.com/CS112-S17/projects/blob/master/project3.md">Project 3</a></td>
