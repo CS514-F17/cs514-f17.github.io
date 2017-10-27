@@ -54,6 +54,14 @@ title: Schedule
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/Student.java">Student</a><br/>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/StudentDriver.java">StudentDriver</a><br/>
 
+<!-- 				<a href="https://github.com/CS514-F17/code/blob/master/GradeCalculator.java">GradeCalculator.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/Name.java">Name.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/NameDriver.java">NameDriver.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/Coin.java">Coin.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/CoinDriver.java">CoinDriver.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/UserNameGenerator.java">UserNameGenerator.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/UserNameGeneratorDriver.java">UserNameGeneratorDriver.java</a><br/>
+			-->			
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/Homework2/blob/master/README.md">Homework 2</a>
@@ -66,6 +74,13 @@ title: Schedule
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/classes.md">Classes</a><br/>
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/methods.md">Methods</a><br/>
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/design.md">Composition</a><br/>
+<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/iteration.md">Iteration</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/fileinput.md">File Input, Exceptions, Command Args</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/collections.md">Collections and ArrayLists</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/fileoutput.md">File Output</a><br/>
+				<a href="https://goo.gl/ZPME02">Scope Visualization</a><br/>				
+				Book - Chapter 5 (5.1, 5.4, 5.6), Chapter 6 (6.2-6.4)
+			-->			
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/Student.java">Student</a><br/>
@@ -73,6 +88,10 @@ title: Schedule
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/Name.java">Name</a><br/>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/NameExample.java">NameExample</a><br/>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/AnotherDataProcessorRedesign.java">AnotherDataProcessorRedesign</a><br/>
+<!-- 				<a href="https://github.com/CS514-F17/code/blob/master/Student.java">Student.java</a><br/>
+		<a href="https://github.com/CS514-F17/code/blob/master/StudentList.java">StudentList.java</a><br/>
+		<a href="https://github.com/CS514-F17/code/blob/master/StudentListBuilder.java">StudentListBuilder.java</a><br/>
+		<a href="https://github.com/CS514-F17/code/blob/master/StudentTest.java">StudentTest.java</a><br/> -->
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/Lab1/blob/master/README.md">Lab 1 Functionality</a><br/>		
@@ -84,22 +103,35 @@ title: Schedule
 		<td>4<br/>9/11-9/15</td>
 		<td>
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/arrays.md"">Arrays</a><br/>
-		
+<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/iteration.md">Iteration</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/fileinput.md">File Input, Exceptions, Command Args</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/collections.md">Collections and ArrayLists</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/fileoutput.md">File Output</a><br/>
+				<a href="https://goo.gl/ZPME02">Scope Visualization</a><br/>				
+				Book - Chapter 5 (5.1, 5.4, 5.6), Chapter 6 (6.2-6.4)
+			-->			
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/ArraySyntax.java">ArraySyntax</a><br/>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/NumberList.java">NumberList</a><br/>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/EmptyListException.java">EmptyListException</a><br/>
 			<a href="https://github.com/CS514-F17/StudentDB">StudentDB Project</a><br/>
+<!-- 				<a href="https://github.com/CS514-F17/code/blob/master/Student.java">Student.java</a><br/>
+		<a href="https://github.com/CS514-F17/code/blob/master/StudentList.java">StudentList.java</a><br/>
+		<a href="https://github.com/CS514-F17/code/blob/master/StudentListBuilder.java">StudentListBuilder.java</a><br/>
+		<a href="https://github.com/CS514-F17/code/blob/master/StudentTest.java">StudentTest.java</a><br/> -->
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/Homework4/blob/master/README.md">Homework 4</a>
+<!-- 				<a href="https://github.com/CS514-F17/projects/blob/master/project1.md">Project 1</a>
+-->			
 		</td>
 	</tr>
 	<tr>
 		<td>5<br/>9/18-9/22</td>
 		<td>        
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/inheritance.md">Inheritance</a><br/>
+			<!-- 				<strong><span class="text-primary">Exam 1 - Thursday 2/23</span></strong> -->
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/Examples/blob/master/src/main/java/examples/ComparableExample.java">ComparableExample</a><br/>
@@ -143,8 +175,15 @@ title: Schedule
 		</td>		
 		<td>
 			<a href="https://github.com/CS514-F17/notes/blob/master/exam_sample.md"> Sample Exam Questions</a><br/>
+<!-- 				<a href="https://github.com/CS514-F17/code/blob/master/TwoDArrays.java">TwoDArrays.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/TwoDArrayDriver.java">TwoDArrayDriver.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/Car.java">Car.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/CarDriver.java">CarDriver.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/ImageManipulator.java">ImageManipulator.java</a><br/> -->
 		</td>
 		<td>
+<!-- 				<a href="https://github.com/CS514-F17/labs/blob/master/image_exercise.md">Image Exercise</a><br/>
+	<a href="https://github.com/CS514-F17/labs/blob/master/lab5.md">Lab 5</a><br/> -->
 		</td>
 	</tr>
 	<tr>
@@ -152,15 +191,16 @@ title: Schedule
 		<td>
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/recursion.md">Recursion</a><br/>
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/intro_java/linkedlists.md">Linked Lists</a><br/>
+<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/inheritance.md">Inheritance</a><br/>
+	Book - Chapter 7 (7.5), Chapter 9 (9.1-9.4) -->
 		</td>
 		<td>
 			<a href="https://github.com/CS514-F17/code/tree/master/Recursion">Recursion Example</a><br/>
-			<a href="https://github.com/CS514-F17/code/tree/master/FileFinder">File Finder</a><br/>			
+			<a href="https://github.com/CS514-F17/code/tree/master/FileFinder">File Finder</a><br/>
 			<a href="https://github.com/CS514-F17/code/tree/master/Sudoku">Sudoku</a><br/>
-			<a href="https://github.com/CS514-F17/code/tree/master/LinkedLists">LinkedLists</a><br/>
 		</td>
 		<td>
- 				<a href="https://github.com/CS514-F17/Lab2/blob/master/README.md">Lab 2 Final</a>			
+ 				<a href="https://github.com/CS514-F17/Lab2/blob/master/README.md"><strong>Due Sunday</strong> - Lab 2 Final</a>			
 		</td>
 	</tr>
 	<tr>
@@ -169,23 +209,31 @@ title: Schedule
 			<strong><span class="text-primary">10/16: No class - Fall break</span></strong><br/>
 			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/advanced/concurrencysummary.md">Concurrency - Summary</a><br/>
 			<a href="https://docs.google.com/presentation/d/1IVIbJjaWok5zs7kAN7lFtOLKbuAIujfdqNxrF4_p76Q/edit">Concurrency - Slides</a><br/>
+<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/inheritance.md">Inheritance</a><br/>
+	Book - Chapter 10 (10.1-10.3) -->
 		</td>
 		<td>
+<!-- 				<a href="https://github.com/CS514-F17/code/blob/master/ComparableExample.java">ComparableExample.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/Name.java">Name.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/USFPerson.java">USFPerson.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/Student.java">Student.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/Faculty.java">Faculty.java</a><br/>
+				<a href="https://github.com/CS514-F17/code/blob/master/USFPersonTester.java">USFPersonTester.java</a><br/> -->
 		</td>
 		<td>
- 				<a href="https://github.com/CS514-F17/SongFinder/blob/master/specifications/lab3.md">Lab 3 Functionality</a><br/>			
- 				<a href="https://github.com/CS514-F17/Homework6/blob/master/README.md">Homework 6</a><br/>
+ 				<a href="https://github.com/CS514-F17/SongFinder/blob/master/specifications/lab3.md"><strong>Due Wednesday</strong> - Lab 3 Functionality</a><br/>			
+ 				<a href="https://github.com/CS514-F17/Homework6/blob/master/README.md"><strong>Due Friday</strong> - Homework 6</a><br/>
+
+				<!-- 				<a href="https://github.com/CS514-F17/labs/blob/master/lab6.md">Lab 6</a><br/>				 -->
 		</td>
 	</tr>
 	<tr>
 		<td>10<br/>10/23-10/27</td>
 		<td>        
-			<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/advanced/concurrencysummary.md">Concurrency - Summary</a><br/>
-			<a href="https://docs.google.com/presentation/d/1IVIbJjaWok5zs7kAN7lFtOLKbuAIujfdqNxrF4_p76Q/edit">Concurrency - Slides</a><br/>			
-			<a href="https://www.ibm.com/developerworks/library/j-jtp0730/index.html">Thread Pools and Work Queues</a><br/>
+				<!-- 				<strong><span class="text-primary">Exam 2 - Thursday 4/6</span></strong> -->
 		</td>
 		<td>
-			<a href="https://github.com/CS514-F17/code/tree/master/Threads">Threads</a><br/>
+				<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/exam2review.md">Exam 2 Review</a><br/> -->
 		</td>
 		<td>
  				<a href="https://github.com/CS514-F17/Homework7/blob/master/README.md"><strong>Due Friday</strong> - Homework 7</a><br/>
@@ -195,19 +243,25 @@ title: Schedule
 	<tr>
 		<td>11<br/>10/30-11/3</td>
 		<td>
-			<strong><span class="text-primary">11/3: Last day to withdraw</span></strong><br/>
-			<strong><span class="text-primary">Exam 2 - Friday 11/3</span></strong>
-		</td>
-		<td>
-			<a href="https://github.com/CS514-F17/notes/blob/master/exam2_review.md">Exam 2 Review and Sample Questions</a><br/>
+				<strong><span class="text-primary">11/3: Last day to withdraw</span></strong><br/>
+				<strong><span class="text-primary">Exam 2</span></strong>
 
+<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/recursion.md">Recursion</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/hashmaps.md">HashMaps</a><br/>
+				Book - Chapter 12 (12.1-12.2) -->
 		</td>
 		<td>
+		</td>
+		<td>
+				<!-- 				<a href="https://github.com/CS514-F17/projects/blob/master/project3.md">Project 3</a> -->
 		</td>
 	</tr>
 	<tr>
 		<td>12<br/>11/6-11/10</td>
 		<td>
+<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/recursion.md">Recursion</a><br/>
+				<a href="https://github.com/CS514-F17/notes/blob/master/hashmaps.md">HashMaps</a><br/>
+				Book - Chapter 12 (12.1-12.2) -->
 		</td>
 		<td>
 <!-- 				<a href="https://github.com/CS514-F17/code/blob/master/RecursionFun.java">RecursionFun.java</a><br/>
@@ -215,7 +269,6 @@ title: Schedule
 				<a href="https://github.com/CS514-F17/code/blob/master/FileFinder.java">FileFinder.java</a><br/> -->
 		</td>
 		<td>
-		  <a href="https://github.com/CS514-F17/SongFinder/blob/master/specifications/project1.md"><strong>Suggested Deadline</strong> - Project: Release 1</a><br/>
 				<!-- 				<a href="https://github.com/CS514-F17/labs/blob/master/lab7.md">Lab 7</a><br/>								 -->
 		</td>
 	</tr>
@@ -249,9 +302,7 @@ title: Schedule
 		<td>
 		<!-- 				<a href="https://github.com/CS514-F17/notes/blob/master/exam3review.md">Exam 3 Review</a><br/> -->
 		</td>
-		<td>
-		  	<a href="https://github.com/CS514-F17/SongFinder/blob/master/specifications/project2.md"><strong>Suggested Deadline</strong> - Project: Release 2</a><br/>			
-		</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>16<br/>12/4-12/6</td>
